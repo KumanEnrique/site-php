@@ -1,0 +1,1 @@
+### creacion de un inventario con php puro y usando el patron de diseño modelo vista controlador
